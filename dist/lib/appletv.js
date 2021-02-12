@@ -369,7 +369,7 @@ exports.AppleTV = AppleTV;
         Key[Key["Wake"] = 13] = "Wake";
         Key[Key["Home"] = 14] = "Home";
         Key[Key["VolumeUp"] = 15] = "VolumeUp";
-        Key[Key["VolumeDown"] = 15] = "VolumeDown";
+        Key[Key["VolumeDown"] = 16] = "VolumeDown";
     })(Key = AppleTV.Key || (AppleTV.Key = {}));
     /** Convert a string representation of a key to the correct enum type.
      * @param string  The string.
